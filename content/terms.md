@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
-date: 2023-12-01
+date: 2024-01-17
 share: false
 ---
 
-Add your company legal terms here...
+Work in progress.

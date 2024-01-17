@@ -5,26 +5,25 @@
 
 # Appearance
 appearance:
-  mode: light
+  mode: dark
   color: indigo
 
 # SEO
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    site_type: LocalBusiness
+    local_business_type: "ProfessionalService"
+    org_name: "Solcraft City Limited"
+    description: "Consultancy focused on Solution crafting and software engineering"
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: ""
+    baidu_tongji: ""
+    plausible: ""
+    fathom: ""
+    pirsch: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 header:
@@ -34,22 +33,22 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: ""
+      text: "Solcraft City"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: ""
     button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
-    show_search: true
-    show_theme_chooser: true
+      enable: false
+      text: ""
+      url: ""
+    show_search: false
+    show_theme_chooser: false
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: "© {year} Solcraft City Limited"
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
